@@ -1,0 +1,92 @@
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.json
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.exe
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.deps.json
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.runtimeconfig.json
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.AssemblyReference.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfoInputs.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CoreCompileInputs.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\GeekShopping.ProductAPI.StaticWebAssets.Manifest.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ProductAPI.styles.css
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CopyComplete
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.pdb
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.genruntimeconfig.cache
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Code\erudio-microservices-dotnet6\S07_ErudioMicroservices.NET6-FirstMicrosservices\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.exe
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.deps.json
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.runtimeconfig.json
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.pdb
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.AssemblyInfo.cs
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.GeekShopping.ProductAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.GeekShopping.ProductAPI.props
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.ProductAPI.props
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GeekShopping.ProductAPI.props
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\scopedcss\bundle\GeekShopping.ProductAPI.styles.css
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.csproj.CopyComplete
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\refint\GeekShopping.ProductAPI.dll
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.pdb
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.genruntimeconfig.cache
+C:\Users\DTI Digital\Documents\curso MicroServioc\sessao7\GeekShooping\GeekShopping.ProductAPI\obj\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
